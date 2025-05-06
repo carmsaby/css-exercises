@@ -1,0 +1,13 @@
+.solo, .unique {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman",  sans-serif;
+}
+
+.solo {
+    color: white;
+    background-color: black;
+}
+
+.unique {
+    background-color: yellow;
+}
